@@ -28,7 +28,7 @@ For this initial performance-gathering experiment, bypassing the service worker 
 Unlike [the navigation preload API](https://w3c.github.io/ServiceWorker/#navigationpreloadmanager), the proposed feature doesn’t wait for the navigation response in fetch handlers.
 
 
-## Initial experiment
+## Origin Trial
 
 We (Google Chrome team) will start the origin trial, which allows developers to opt-in the feature on their sites. Regarding the introduction and basic registration process, please refer to [this page](https://developer.chrome.com/docs/web-platform/origin-trials/).
 
