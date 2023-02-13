@@ -7,7 +7,7 @@
 
 ## Participate
 
--  https://github.com/sisidovski/service-worker-bypass-fetch-handler-for-main-resource/issues
+-  https://github.com/w3c/ServiceWorker/issues/1670
 
 
 ## Introduction
